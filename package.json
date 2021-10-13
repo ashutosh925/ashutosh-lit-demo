@@ -1,6 +1,6 @@
 {
-  "name": "@ashutosh/lit-demo",
-  "version": "1.0.0",
+  "name": "@ashutosh_roy/lit-demo",
+  "version": "2.0.2",
   "description": "",
   "main": "InputLitElement.js",
   "module": "InputLitElement.js",
