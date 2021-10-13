@@ -14,6 +14,20 @@
     "@mui/material": "^5.0.3",
     "lit-element": "^3.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh925/ashutosh-lit-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashutosh925/ashutosh-lit-demo/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
+  "homepage": "https://github.com/benawad/tsconfig.json#readme",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
